@@ -16,7 +16,7 @@ idna==2.8
 itsdangerous==1.1.0
 Jinja2==2.10
 kombu==4.4.0
-lxml==4.3.2
+lxml==4.6.3
 MarkupSafe==1.1.1
 meld3==1.0.2
 parse==1.11.1
